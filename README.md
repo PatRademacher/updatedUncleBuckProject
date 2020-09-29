@@ -48,6 +48,6 @@ This work is released under the "GNU General Public License". Please see the fil
 ## [**Team Uncle Buck**](https://github.com/Team-Uncle-Buck)
 - [Mi Yon Kim](https://github.com/youn0125)
 - [Tom More "$ Less Problems" Lancaster](https://github.com/tlan2)
-- [Pat Radamacher](https://github.com/PatRademacher)
+- [Pat Rademacher](https://github.com/PatRademacher)
 - [Chad Tolleson](https://github.com/tollesonpdx)
 - [Uncle Buck](https://github.com/Team-Uncle-Buck)
